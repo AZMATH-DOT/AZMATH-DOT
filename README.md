@@ -17,7 +17,7 @@ I build scalable systems, automate everything, and ship intelligent apps.
 - Exploring AI/ML to bring intelligence into apps
 - Open to collaborating on Cloud, DevOps, and full‑stack projects
 
-📬 Reach me: [jahnahmed162@gmail.com](mailto:jahnahmed162@gmail.com) · [LinkedIn](https://www.linkedin.com/in/azmath-ahmed-947445255)
+📬 Reach me: [azmathyta@gmail.com.com](mailto:azmathyta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/azmath-ahmed-947445255)
 
 ---
 
