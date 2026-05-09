@@ -1,152 +1,283 @@
+<h1 align="center">Hi 👋, I'm Azmath Ahmed</h1>
 
+<h3 align="center">
+Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE • DevSecOps • AI Infrastructure
+</h3>
 
-# Hi, I'm Azmath Ahmed (he/him) 👋
-
-Cloud & DevOps Engineer · AI/ML Enthusiast · Full Stack Developer  
-I build scalable systems, automate everything, and ship intelligent apps.
-
-![Followers](https://img.shields.io/github/followers/AZMATH-DOT?style=social)
-![Stars](https://img.shields.io/github/stars/AZMATH-DOT?affiliations=OWNER%2CCOLLABORATOR&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azmath%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmath-ahmed-947445255)
-
----
-
-## 🚀 What I’m about
-- Designing scalable, cloud-native platforms and reliable CI/CD pipelines
-- Containerization, orchestration, and DevOps automation
-- Exploring AI/ML to bring intelligence into apps
-- Open to collaborating on Cloud, DevOps, and full‑stack projects
-
-📬 Reach me: [azmathyta@gmail.com.com](mailto:azmathyta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/azmath-ahmed-947445255)
-
----
-
-## 🛠️ Tech I like working with
-- Cloud & DevOps: AWS, Kubernetes, Docker, Terraform, GitHub Actions
-- Languages: Java, Python, JavaScript, Bash
-- Platforms/Tools: Linux, Apache Tomcat
-
-<!-- Distinct-color badges -->
-<p>
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-2AA198?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-AI%2FML-FF006E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Full%20Stack-00BFA6?style=for-the-badge&logo=stackshare&logoColor=white" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Kubernetes+%7C+Terraform+%7C+Docker;CI%2FCD+Automation+%7C+SRE+%7C+DevSecOps;AI-Powered+Infrastructure+Engineer;Building+Scalable+Cloud+Systems" />
 </p>
 
 ---
 
-## 🤖 AI, Automation, and Generative Media
+# 💫 About Me
 
-- Agent creation & automation
-  - Tool-using and multi-agent systems (LangChain/LangGraph, AutoGen, CrewAI) with function calling/tools
-  - Workflow automation with n8n/Zapier; schedulers, scrapers (Playwright), enrichment, notifications
-  - DevOps/SRE agents: runbook automation for AWS/Kubernetes/Terraform, alert triage, on-call helpers
-  - Integrations: Slack, Discord, GitHub, JIRA, Gmail, Notion, Google Drive, REST/GraphQL APIs
+🔭 I’m currently working on  
+**Production-Grade Cloud Infrastructure, Kubernetes Deployments & AI-Powered DevOps Systems**
 
-- Image creation
-  - SDXL/Flux pipelines (ComfyUI/Invoke): text-to-image, in/outpainting, ControlNet, IP-Adapter, style transfer
-  - Upscaling/cleanup (Real-ESRGAN), background removal, batch asset packs (thumbnails, icons, mockups)
+👯 I’m looking to collaborate on  
+**Cloud Native, Kubernetes, DevOps & Open Source Projects**
 
-- Video generation
-  - Text-to-video / image-to-video with Pika, Runway, Luma Dream Machine, Stable Video Diffusion (where available)
-  - Animation/motion: AnimateDiff, Deforum; scene stitching, captions/subtitles
-  - Avatars & lip-sync (Wav2Lip, SadTalker) + voiceover (ElevenLabs, XTTS)
-  - Auto-editing and packaging with ffmpeg/Auto-Editor
+🤝 I’m looking for help with  
+**Advanced SRE, Platform Engineering & AI Infrastructure**
 
-- AI web‑series pipeline
-  - Concept → script → storyboard → shot list → asset generation → voiceover → edit → publish
-  - Episode scheduling, prompt/version management, reuse of characters/worlds
+🌱 I’m currently learning  
+**Advanced Kubernetes, Azure DevOps, MLOps & Agentic AI**
 
-- Chatbots & RAG
-  - Domain chatbots with retrieval over PDFs, websites, and code
-  - Vector search: Pinecone, Qdrant, pgvector/FAISS; eval, guardrails, analytics dashboards
+💬 Ask me about  
+**AWS, Terraform, Docker, Kubernetes, Linux, Python, CI/CD & Cloud Architecture**
 
-- Data/ML Ops
-  - Fine-tuning/LoRA for LLMs and diffusion models; experiment tracking (W&B/MLflow)
-  - Serving/inference: FastAPI, Docker, KServe; monitoring: Prometheus/Grafana
-  - Pipelines: Airflow/Prefect; labeling: Label Studio; transcription: Whisper
-
-- Models & providers
-  - Open-source: Llama, Mistral, SDXL/Flux, Whisper
-  - Managed APIs: OpenAI, Anthropic, Google, Cohere, Stability AI, Luma (as available)
+⚡ Fun fact  
+**I enjoy automating everything and building intelligent infrastructure with DevOps + AI 🚀**
 
 ---
 
-## 💻 Full‑Stack Development
+# ☁️ Cloud | DevOps | AI Stack
 
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js (Express/NestJS), Python (FastAPI/Flask), Java (Spring Boot)
-- APIs & auth: REST/GraphQL, WebSockets, OAuth2/OIDC, JWT, RBAC
-- Databases: PostgreSQL, MySQL, MongoDB; ORM: Prisma/SQLAlchemy/Hibernate
-- Caching/queues: Redis, Kafka/RabbitMQ; file/object storage: S3
-- Testing & quality: Jest, Pytest, Playwright; clean architecture & best practices
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-## ☁️ Cloud & DevOps (for productionizing all the above)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
-- AWS: EKS/ECS, Lambda, S3, RDS, CloudFront; IaC: Terraform
-- Containers & K8s: Docker, Helm, Argo CD; CI/CD: GitHub Actions
-- Observability & security: OpenTelemetry, ELK, Grafana; IAM, secrets (SSM/Vault), image scanning (Trivy)
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-## 📌 Featured projects
-- EKS Microservices Platform  
-  https://github.com/AZMATH-DOT/https-github.com-AZMATH-DOT-eks-microservices-platform  
-  Kubernetes-focused microservices playground on AWS EKS with containerized services.
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Automation-00C853?style=for-the-badge"/>
 
-- Tomcat Docker Example  
-  https://github.com/AZMATH-DOT/tomcat-docker-example  
-  Containerized Java/Tomcat app showcasing a simple Dockerized deployment.
-
-- Docker Project  
-  https://github.com/AZMATH-DOT/Docker-project  
-  Assorted Docker experiments and examples.
-
-<!-- Optional: Repo cards -->
-<p>
-  <a href="https://github.com/AZMATH-DOT/tomcat-docker-example">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZMATH-DOT&repo=tomcat-docker-example" />
-  </a>
-  <a href="https://github.com/AZMATH-DOT/Docker-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZMATH-DOT&repo=Docker-project" />
-  </a>
-  <a href="https://github.com/AZMATH-DOT/https-github.com-AZMATH-DOT-eks-microservices-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZMATH-DOT&repo=https-github.com-AZMATH-DOT-eks-microservices-platform" />
-  </a>
 </p>
 
 ---
 
-## 📊 GitHub stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AZMATH-DOT&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZMATH-DOT&layout=compact&theme=transparent" />
-</p>
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AZMATH-DOT&theme=transparent" />
-  </a>
+# 🏢 Experience
+
+## ☁️ Cloud & DevOps Engineer Intern — Alagzoo Corp
+
+📅 Jan 2026 — Present  
+📍 Hyderabad, India
+
+### 🚀 Responsibilities
+
+✔️ Architected secure AWS infrastructure using Terraform  
+✔️ Provisioned EC2, IAM, RDS, VPC & EKS environments  
+✔️ Built CI/CD pipelines using Jenkins & GitHub Actions  
+✔️ Managed containerized workloads using Docker & Kubernetes  
+✔️ Implemented monitoring with Prometheus, Grafana & CloudWatch  
+✔️ Automated cloud operations using Python & Bash scripting  
+✔️ Developed AI-powered monitoring agents using LLM APIs  
+✔️ Built RAG-based DevOps assistant for infrastructure troubleshooting  
+
+### ⚙️ Technologies Used
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+
 </p>
 
 ---
 
-## 🔎 Roles I’m open to
-- AI Engineer / Agentic AI / Automation Engineer
-- Generative Media (image/video) Engineer
-- Full‑Stack Developer
-- Cloud & DevOps Engineer
+## 🚀 AWS & DevOps Engineer Intern — Full Stack Academy
+
+📅 Jan 2025 — Dec 2025  
+📍 Hyderabad, India
+
+### 🚀 Responsibilities
+
+✔️ Designed highly available AWS 3-tier architecture  
+✔️ Automated infrastructure deployments using Terraform  
+✔️ Built CI/CD workflows using GitHub Actions  
+✔️ Deployed applications on Kubernetes (EKS)  
+✔️ Implemented monitoring & observability systems  
+✔️ Built Kubernetes-based MLOps deployment platform  
+✔️ Improved deployment reliability & automation workflows  
+
+### ⚙️ Technologies Used
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus"/>
+
+</p>
 
 ---
 
-💡 Fun fact: If it can be automated, I probably will.
+# 🔥 Featured Projects
+
+## 🚀 AI-Powered Cloud Monitoring Agent
+
+🔹 Intelligent log analysis using LLM APIs  
+🔹 AI-powered anomaly detection  
+🔹 Automated incident summarization  
+🔹 Proactive monitoring & troubleshooting  
+
+### ⚙️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
+
+</p>
+
+---
+
+## ☸️ Kubernetes-Based MLOps Platform
+
+🔹 Production-grade EKS deployment  
+🔹 Automated ML deployment workflows  
+🔹 Containerized AI workloads  
+🔹 Monitoring & rollback strategy  
+
+### ⚙️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions"/>
+
+</p>
+
+---
+
+## ⚡ Production-Grade CI/CD Pipeline
+
+🔹 End-to-end deployment automation  
+🔹 Infrastructure as Code implementation  
+🔹 Multi-environment deployment workflows  
+🔹 Secure DevOps practices  
+
+### ⚙️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Oracle-Certified_Professional-F80000?style=for-the-badge&logo=oracle"/>
+
+<img src="https://img.shields.io/badge/AWS-Solutions_Architecture_Job_Simulation-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/AWS_&_DevOps-Agentic_AI-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Claude_Code-In_Action-7B68EE?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+## 🎓 Bachelor of Computer Applications (BCA)
+
+🏫 Osmania University, Hyderabad  
+📅 2022 — 2024
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AZMATH-DOT&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AZMATH-DOT&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AZMATH-DOT&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/azmathahmed">
+<img src="https://img.shields.io/badge/LinkedIn-Azmath_Ahmed-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:azmathyta@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/AZMATH-DOT">
+<img src="https://img.shields.io/badge/GitHub-AZMATH--DOT-100000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://dev-resume-showcase.preview.emergentagent.com/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C853?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AZMATH-DOT&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# ⚡ DevOps Philosophy
+
+```bash
+Automate Everything
+Monitor Everything
+Scale Reliably
+Secure by Default
+Build Intelligent Infrastructure
+```
+
+---
+
+<h3 align="center">
+⚡ Building Intelligent Cloud Infrastructure with DevOps + AI ⚡
+</h3>
