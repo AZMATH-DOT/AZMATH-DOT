@@ -39,12 +39,14 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
@@ -72,29 +74,12 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 📅 Jan 2026 — Present  
 📍 Hyderabad, India
 
-### 🚀 Responsibilities
-
-✔️ Architected secure AWS infrastructure using Terraform  
-✔️ Provisioned EC2, IAM, RDS, VPC & EKS environments  
+✔️ Architected AWS infrastructure using Terraform  
 ✔️ Built CI/CD pipelines using Jenkins & GitHub Actions  
-✔️ Managed containerized workloads using Docker & Kubernetes  
-✔️ Implemented monitoring with Prometheus, Grafana & CloudWatch  
-✔️ Automated cloud operations using Python & Bash scripting  
+✔️ Managed Kubernetes workloads on AWS EKS  
+✔️ Implemented monitoring using Prometheus & Grafana  
+✔️ Automated cloud operations using Python & Bash  
 ✔️ Developed AI-powered monitoring agents using LLM APIs  
-✔️ Built RAG-based DevOps assistant for infrastructure troubleshooting  
-
-### ⚙️ Technologies Used
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-
-</p>
 
 ---
 
@@ -103,27 +88,12 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 📅 Jan 2025 — Dec 2025  
 📍 Hyderabad, India
 
-### 🚀 Responsibilities
-
-✔️ Designed highly available AWS 3-tier architecture  
-✔️ Automated infrastructure deployments using Terraform  
+✔️ Designed AWS 3-tier architecture  
+✔️ Automated deployments using Terraform  
 ✔️ Built CI/CD workflows using GitHub Actions  
-✔️ Deployed applications on Kubernetes (EKS)  
+✔️ Deployed applications on Kubernetes  
 ✔️ Implemented monitoring & observability systems  
 ✔️ Built Kubernetes-based MLOps deployment platform  
-✔️ Improved deployment reliability & automation workflows  
-
-### ⚙️ Technologies Used
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus"/>
-
-</p>
 
 ---
 
@@ -136,16 +106,8 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 🔹 Automated incident summarization  
 🔹 Proactive monitoring & troubleshooting  
 
-### ⚙️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
-
-</p>
+### ⚙️ Stack
+AWS • Python • Grafana • LLM APIs
 
 ---
 
@@ -156,16 +118,8 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 🔹 Containerized AI workloads  
 🔹 Monitoring & rollback strategy  
 
-### ⚙️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions"/>
-
-</p>
+### ⚙️ Stack
+Kubernetes • Docker • Terraform • GitHub Actions
 
 ---
 
@@ -176,16 +130,8 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 🔹 Multi-environment deployment workflows  
 🔹 Secure DevOps practices  
 
-### ⚙️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
-
-</p>
+### ⚙️ Stack
+Terraform • Jenkins • Docker • Kubernetes
 
 ---
 
@@ -199,7 +145,7 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 
 <img src="https://img.shields.io/badge/AWS-Solutions_Architecture_Job_Simulation-232F3E?style=for-the-badge&logo=amazonaws"/>
 
-<img src="https://img.shields.io/badge/AWS_&_DevOps-Agentic_AI-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-Agentic_AI-0A66C2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Claude_Code-In_Action-7B68EE?style=for-the-badge"/>
 
@@ -220,15 +166,21 @@ Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • SRE •
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AZMATH-DOT&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AZMATH-DOT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AZMATH-DOT&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=AZMATH-DOT&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AZMATH-DOT&theme=tokyo-night&hide_border=true"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=AZMATH-DOT&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZMATH-DOT&theme=tokyonight"/>
 
 </p>
 
